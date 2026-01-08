@@ -6,7 +6,7 @@ Welcome to your CNN learning journey! This workspace contains 5 progressive proj
 
 **New here?** → Read the **[Getting Started Guide](GETTING_STARTED.md)** for setup instructions, installation, and tips!
 
-## �📚 Learning Path
+## 📚 Learning Path
 
 ### Project 1: MNIST Digit Recognition (START HERE!)
 **Difficulty:** ⭐ Beginner  
