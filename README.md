@@ -2,7 +2,7 @@
 
 Welcome to your CNN learning journey! This workspace contains 5 progressive projects designed to build your understanding from the ground up.
 
-## � Quick Start
+## 💡Quick Start
 
 **New here?** → Read the **[Getting Started Guide](GETTING_STARTED.md)** for setup instructions, installation, and tips!
 
